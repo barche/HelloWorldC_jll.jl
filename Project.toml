@@ -1,6 +1,6 @@
 name = "HelloWorldC_jll"
 uuid = "dca1746e-5efc-54fc-8249-22745bc95a49"
-version = "1.2.2+0"
+version = "1.2.3+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"

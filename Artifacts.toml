@@ -1,8 +1,8 @@
 [[HelloWorldC]]
 arch = "x86_64"
-git-tree-sha1 = "3d8f267d690ffa607a4818cdcb4e85c900f5790b"
+git-tree-sha1 = "014ab39c2ca5eda230288bd54fe603d13ae263ee"
 os = "windows"
 
     [[HelloWorldC.download]]
-    sha256 = "768353ef7da6e6ac9c2fd7d79b8a6a8ecc7712a69e0db542d3b7cf9f24d01cb5"
-    url = "https://github.com/barche/HelloWorldC_jll.jl/releases/download/HelloWorldC-v1.2.3+0/HelloWorldC.v1.2.3.x86_64-w64-mingw32.tar.gz"
+    sha256 = "6caacb299257f34b6a1239ac7f74486509a0e574cc2523bfb189da629138db29"
+    url = "https://github.com/barche/HelloWorldC_jll.jl/releases/download/HelloWorldC-v1.2.4+0/HelloWorldC.v1.2.4.x86_64-w64-mingw32.tar.gz"

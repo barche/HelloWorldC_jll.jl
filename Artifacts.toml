@@ -1,0 +1,8 @@
+[[HelloWorldC]]
+arch = "x86_64"
+git-tree-sha1 = "51b230b1f6b88fa00b806b29bcf17de6a1ae0d34"
+os = "windows"
+
+    [[HelloWorldC.download]]
+    sha256 = "ad634ba41ff6d33b10d2ed5adbab65e575ceb84114bce2ca3b878b122566966e"
+    url = "https://github.com/barche/HelloWorldC_jll.jl/releases/download/HelloWorldC-v1.2.2+0/HelloWorldC.v1.2.2.x86_64-w64-mingw32.tar.gz"
